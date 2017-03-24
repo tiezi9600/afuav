@@ -1,0 +1,32 @@
+login	login
+register	Register
+username	Username
+password	Password
+newpassword	New Password
+oldpassword	Old Password
+repeatpassword	Repeat Password
+forgetpassword	Forget Password?
+noaccount	No account?
+alreadyreg	Already have a account?
+logout	Log out
+changepassword	Change Password
+setting	Setting
+save	Save
+city	City
+resetpassword	Reset Password
+success	Success!
+passworderror	Password Error!
+accountforbidden	This account if forbidden!
+unverified	This account if unverified!
+emailexist	This Email has existed!
+usernameexist	This Username has existed!
+usernameempty	Username can't be empty
+emailempty	Email can't be empty
+passwordempty	Password can't be empty
+passwordnotmatch	The two passwords you entered did not match
+resetpassworderror	Reset password error
+resetpasswordemailsend	Reset password url has send to your Email
+pleaselogin	Please login
+successlogin	Login successfully
+usernameat	Username can not contain @
+emailerror	Email error

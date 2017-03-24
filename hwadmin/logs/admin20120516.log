@@ -1,0 +1,37 @@
+08:17:00	173.245.77.131	crumb=J1Uh7f		/hwadmin/login.php?crumb=J1Uh7f
+08:17:06	173.245.77.131			/hwadmin/login.php
+08:17:13	173.245.77.131		admin	/hwadmin/admincp.php
+08:17:13	173.245.77.131	action=menu	admin	/hwadmin/admincp.php?action=menu
+08:17:14	173.245.77.131	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+08:17:17	173.245.77.131		admin	/hwadmin/admincp.php
+08:17:17	173.245.77.131		admin	/hwadmin/welcome.php
+08:17:17	173.245.77.131	action=menu	admin	/hwadmin/admincp.php?action=menu
+08:17:17	173.245.77.131	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+08:17:19	173.245.77.131	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+08:17:56	173.245.77.131	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+08:18:02	173.245.77.131	action=specialpages&id=11	admin	/hwadmin/admincp.php?action=specialpages&id=11
+08:19:07	173.245.77.131	action=specialpages&id=11	admin	/hwadmin/admincp.php?action=specialpages&id=11
+08:19:12	173.245.77.131	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+08:19:22	173.245.77.131	action=specialpages&id=11	admin	/hwadmin/admincp.php?action=specialpages&id=11
+08:19:49	173.245.77.131	action=specialpages&id=11	admin	/hwadmin/admincp.php?action=specialpages&id=11
+08:20:02	173.245.77.131	action=specialpages&id=11	admin	/hwadmin/admincp.php?action=specialpages&id=11
+08:20:23	173.245.77.131	action=items&module=2	admin	/hwadmin/admincp.php?action=items&module=2
+08:20:27	173.245.77.131	action=categories	admin	/hwadmin/admincp.php?action=categories
+08:20:34	173.245.77.131	action=edititem&id=35	admin	/hwadmin/admincp.php?action=edititem&id=35
+08:20:38	173.245.77.131	action=selectcategories&up=0&level=0&module=2&defaultlist=2,11	admin	/hwadmin/admincp.php?action=selectcategories&up=0&level=0&module=2&defaultlist=2,11
+08:20:39	173.245.77.131	action=selectcategories&up=2&level=1&module=2&defaultlist=2,11	admin	/hwadmin/admincp.php?action=selectcategories&up=2&level=1&module=2&defaultlist=2,11
+08:20:39	173.245.77.131	action=selectcategories&up=11&level=2&module=2&defaultlist=2,11	admin	/hwadmin/admincp.php?action=selectcategories&up=11&level=2&module=2&defaultlist=2,11
+08:20:54	173.245.77.131	action=items&category=7	admin	/hwadmin/admincp.php?action=items&category=7
+08:21:05	173.245.77.131	action=edititem&id=36	admin	/hwadmin/admincp.php?action=edititem&id=36
+08:21:07	173.245.77.131	action=selectcategories&up=0&level=0&module=2&defaultlist=2,7	admin	/hwadmin/admincp.php?action=selectcategories&up=0&level=0&module=2&defaultlist=2,7
+08:21:08	173.245.77.131	action=selectcategories&up=2&level=1&module=2&defaultlist=2,7	admin	/hwadmin/admincp.php?action=selectcategories&up=2&level=1&module=2&defaultlist=2,7
+08:21:08	173.245.77.131	action=selectcategories&up=7&level=2&module=2&defaultlist=2,7	admin	/hwadmin/admincp.php?action=selectcategories&up=7&level=2&module=2&defaultlist=2,7
+08:22:03	173.245.77.131	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm
+08:22:13	173.245.77.131	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm
+08:23:54	173.245.77.131	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+08:24:06	173.245.77.131	action=specialpages&id=2	admin	/hwadmin/admincp.php?action=specialpages&id=2
+08:25:41	173.245.77.131	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm
+08:25:53	173.245.77.131	action=templates	admin	/hwadmin/admincp.php?action=templates
+08:26:01	173.245.77.131	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm
+08:34:04	173.245.77.131	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+08:34:07	173.245.77.131	action=templates	admin	/hwadmin/admincp.php?action=templates

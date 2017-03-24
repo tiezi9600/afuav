@@ -1,0 +1,460 @@
+alias	Alias
+import	Import
+export	Export
+path	Path
+home	Home
+character	Character
+default	Default
+withglobal	Follow global setting
+text	Text
+variable	Variable
+value	Value
+content	Content
+edit	Edit
+delete	Delete
+status	Status
+welcome	Welcome
+preview	Preview
+save	Save
+manage	Manage
+batch	Batch
+reset	Reset
+template	Template
+activate	Activate
+frozen	Frozen
+disabled	Disabled
+available	Available
+yes	Yes
+no	No
+freeze	Freeze
+active	Active
+del	Del
+ins	Ins
+language	language
+chinese	chinese
+english	english
+attach	Attach
+picture	Picture
+or	OR
+date	Date
+author	Author
+source	Source
+category	Category
+section	Section
+query	Query
+key	Key
+username	username
+password	password
+login	login
+description	Description
+order	Order
+set	Set
+orderby	Order by
+title	Title
+optimize	Optimize
+editor	Editor
+data	Data
+install	Install
+font	Font
+color	Color
+style	Style
+bold	Bold
+italic	Italic
+digest	Digest
+keywords	Keywords
+aimurl	Aim url
+charset	Charset
+start	Start
+tip	tip
+deleted	Deleted
+account	Account
+servertime	Server Time
+cp	Cortrol Panel
+forcreatoronly	I am sorry but this function is for creator only.
+templatenotexist	One or more templates lose.Please make sure all system files have been uploaded to server.
+filename	File Name
+filesize	File Size
+maintemplate	Main template
+systemvariable	System variable
+subtemplate	Sub template
+clickfortarget	If your browser doesn't load Automatically, click here please.
+parameterwrong	Parameter is not correct!
+operatesuccess	Operate successfully!
+nodefined	Operation is not defined!
+specialcharacter	Special character is forbidden.a-z,A-Z,0-9,_,-,.,/ are allowed.
+pathspecialcharacter	Special character is forbidden.a-z,A-Z,0-9 are allowed.
+allarerequired	All contents are requied!
+cantwrite2file	Write to file failed.
+invertselection	Invert Selection
+pvs	Pageview num
+createitembatch	Create items batch
+createcategorybatch	Create categories batch
+createcategorydefault	Create category default page
+choosecategory	Please choose the category:
+choosestep	how many each time
+batchitemready	Batch create html is ready. Total (*1) items.
+batchiteminfo	Finish (*1)% created about (*2) items
+login_success	Processing Login.
+item_num	items
+logout_success	You have logged out.
+login_failed	Your sign in information is not valid.
+youarefreeze	You are freeze. Please contact "admin".
+dbuser	Mysql username
+dbpw	Mysql password
+dbname	Database name
+dbhost	Mysql server address
+tablepre	tablepre
+connecterror	Fail to connection to database, please check the database info.
+dbpwerror	Password of database error, check it.
+installsuccess	Install akcms system successfil.Super User:"admin",password:"a"
+dbnameerror	database name can contain "a-z,A-Z,0-9,_" only.
+tablepreerror	tablepre name can contain "a-z,A-Z,0-9" only.
+gbk	gbk chinese
+timedifference	Time difference
+timedifference_description	For example: if server time is 8 hours earlier than your local time. This value should be "-8"
+resetpassword	Reset Password
+newaccount	New account
+changepassword	Change Password
+oldpassword	Old password
+newpassword	New password
+newpassword2	Repeat this password
+accountmanage	Accounts Manage
+changestatus	Change status
+passwordreset	Password has been reset to "akcms"
+accountorpasswordempty	Account and password must be offered.
+accountexist	This account has existed.
+accoundpassword	account/password:
+accounthasitems	This account can't be deleted. Because there're some items belong to this account.
+oldpassworderror	Old password is not correct.
+repeatpassworderror	Repeat password is not correct.
+passwordempty	Old password and new password can't be empty.
+nothisuser	No this user.
+itemnum	Item Num:
+helpcenter	Help center
+help	Help
+officialsite	Official site
+officialbbs	Official bbs
+os	Operator System
+systeminfo	System info
+siteinfo	Site info
+sitepvs	Site PV
+siteitems	Site items
+siteattachments	Site attachments
+siteattachmentsizes	Site attachmentsizes
+siteeditors	Site editors
+tools	Admin tools
+maxupload	Max upload limit
+maxexetime	Max execution time
+time	Time
+phpversion	PHP Version
+mysqlversion	Mysql Version
+akversion	AKCMS Version
+correcttime	Correct time
+functiondisabled	 function is disabled.
+updatecache	Update caches
+checkwritable	Check writable
+isunwritable	 isn't writable.
+writableerror	Some wanted folders/files are not writable
+writableok	All wanted folders/files are writable
+fontsize	Font size
+attach_no	No Attach.
+item_edit	Edit Item
+item_no	No Item.
+specialpage_no	No Special page.
+specialpage_edit	Edit Special Page
+pagename	Page Name
+allcategory	All Category
+allsection	All Section
+pagenum	Page Num:
+numperpage	Show Item Per Page:
+prepage	Present Page:
+shorttitle	Short title
+deletepicture	Delete picture
+deletepictureok	The picture has been deleted, you should save this change.
+notitle	Title must be offered!
+nodata	Data must be offered!
+pleasechoose	Please choose
+inputurl	Please input the url.
+inputtext	Please input the text.
+ifcreatehtml	If create html?
+nophp	Static pages file's expand can't be "php"
+noempty	Filename can't be empty
+pictureexterror	Picture's ext-name is not supported, jpg,jpeg,gif,png is serviceed.
+attachexterror	attach's ext-name can't be php.
+filenamecantbephp	The filename's  expand name can't be php.
+pathforbidden	The filename's path is forbidden!
+parentpathforbidden	"../" is forbidden!
+copyattachtag	Attach tag has copied to your clipboard. You can paste it to anywhere in data.
+suredelpage	Are you sure to delete this page?
+pagepathroot	Special page's name must started by "/"
+haveattach	Have attach
+havepicture	Have picture
+attachnum	Add Attach Num
+limit255	(Limit to 255 letters)
+noitem	No item selected.
+suredelitem	Are you sure to delete this item?
+suredelattach	Are you sure to delete this attach?
+noitembatch	You must check one items' checkbox at least.
+fileexist	The filename you choose was used.Please choose another one,for example add a prefix for it.
+attachtoobig	Array
+attachdeleted	This attachment is deleted successful.
+attachnotfound	This attachment is not found.
+createhtml	Create HTML
+system	System
+batchcreatehtml	Batch create html
+setting	Setting
+logout	Log out
+createitem	Items
+createcategory	Categories
+s_ifhtml	If create html?|Html is avail SEO|On,Off
+s_usefilename	Use filename for item?|It is not necessary when use dynamic visit by id.|On,Off
+s_language	Language|Editor control panel's language. Change it won't affect consumer.|chinese,engilsh
+s_commentneedcaptcha	Comment need captcha|This function will stop spam.|On,Off
+s_htmlexpand	Html expand name|For example:.htm,.html|
+s_maxattachsize	Max size of attachments|by KB|
+s_defaultfilename	Default filename|Such as "index.htm"|
+s_forbidstat	Forbid to stat|If you use a third party stat system, you can forbid this to improve speed.|Allow,Forbidden
+s_statcachesize	Stat cache size|If you need more exact stat, you can reduce this.If you need more load, you can increase this. "5120" is our advice. by byte.|
+s_keywordslink	Keywords url|Keywords of the article will be replaced with this template. With [keyword] on behalf of the keyword itself, with the [keywordinurl] identifies the encoded keyword|
+plaintext	Plain Text
+richtext	Rich Text
+s_homepage	Homepage's url|If this value is empty. Will get url auto. "http://url", "http://url/", "http://url/path", "http://url/path/" are allowed.|
+s_systemurl	System's url|If this value is empty. Will get url auto. "http://url", "http://url/", "http://url/path", "http://url/path/" are allowed.|
+upperisself	The upper category can't be isself.
+category_name	Category Name
+category_no	No Category.
+category_new	New Category
+category_edit	Edit Category
+section_manage	Sections Manage
+section_name	Section Name
+section_no	No Section.
+itemtemplate	Item Template
+defaulttemplate	Default Template
+listtemplate	List Template
+section_new	New Section
+section_edit	Edit Section
+categoryup	Upper category
+rootcategory	Root category
+subcategory	sub category
+nocategoryname	Category name must be provided!
+nosectionname	Section name must be provided!
+nocategory	Item must have a category!
+nosection	Not found this section!
+defaultsectionnodel	Default section can't be deleted!
+suredelcategory	Are you sure to delete this category?
+suredelsection	Are you sure to delete this section?
+suredelvariable	Are you sure to delete this variable?If other template contain this variable,delete this variable will make a mistake.
+suredeltemplate	Are you sure to delete this template?If other template contain this template,delete this template will make a mistake.
+templatenameerror	Template name can contain (0-9)(a-z)(A-Z) only, and can't be empty.
+templateexit	The template has existed already,Please change a template name
+newtemplate	New template created, you can modify it.
+cantcreatetemplate	The template can't be created!
+notemplate	The template is not found.
+cantdeltemplate	Delete the template failed.
+templatenotwritable	The template is not writable.
+variablenamerror	Variable name can contain (0-9)(a-z)(A-Z) only, and can't be empty.
+delcategoryhasitem	You can't delete this category. This category has some items still.
+delcategoryhassub	You can't delete this category. This category has some subcategories still.
+deltemplatehasused	You can't delete this template. This template is useing.
+categorypathused	This path has been used, please choose other one.
+aliasused	This alias has been used, please choose other one.
+addnewtemplate	Add new template
+addnewvariable	Add new variable
+returntodefault	Homepage
+returntosystemdefault	Control Panel
+pictureurl	Picture's url:
+uploadpicture	Upload picture
+picture_tip	If set picture's url, upload will be canceled.
+replace	Replace
+test	Test
+skip	Skip
+update	Update
+s_storemethod	Item file URL||
+force	Force
+automatism	Automatism
+s_sitename	Site name|Show in system.|
+db	Database
+keyword	Keyword
+generallysetting	Generally setting
+functionssetting	Functions
+frontsetting	Front setting
+usersetting	User setting
+processready	Process ready. Continue now.
+up	Up
+down	Down
+s_attachimagequality	Image attachment quality|80 is ok|10,20,30,40,50,60,70,80,90,100
+s_attachwatermarkposition	Image watermark position||no watermark,random,left top,top,right top,left,center,right,left bottom,bottom,right bottom
+attachsetting	Attach setting
+readme	Readme
+modifyorder	Modify order value
+modifycategory	Modify category
+neworder	New order
+newcategory	New category
+open	Open
+runsql	Run SQL
+addfield	Add Field
+field	Field
+type	Type
+option	Option
+length	Length
+commentnum	Comment Num
+comment	Comment
+name	Name
+denyip	Deny IP
+suredelcomment	Are you sure to delete this comment?
+suredenycommentip	Are you sure to deny this ip?
+commentempty	No comment.
+managecomment	Manage Comment.
+updatefilenames	Update Filenames
+leaveempty	Leave Empty
+storemethod	Item URL
+categorypagemethod	Category Page URL
+s_categorypagemethod	Category Page URL|[categorypath][page]|
+sectionpagemethod	Section Page URL
+s_sectionpagemethod	Section Page URL|Section Page URL|
+s_attachmethod	Attach file is stored by|Attach Method|
+s_thumbmethod	Custom thumb file is stored by|Attach Thumb Method|
+s_globalkeywordstemplate	Global keywords' display template in content||
+s_previewmethod	Preview image file is stored by|Page Method|
+s_imagemethod	Page file is stored by|Page Method|
+categoryhomemethod	Category Homepage URL
+s_categoryhomemethod	Category Homepage URL||
+sectionhomemethod	Section Homepage URL
+s_sectionhomemethod	Section Homepage URL|Page Method|
+rememberlogin	Remember Login
+modifyglobalsetting	Modify Global setting
+createcategorysuccess	Success create category.
+attachmethod	
+createdefault	Create default page
+createlist	Create list page
+variableexist	Variable exist
+string	String
+number	Number
+select	Select
+radio	Radio
+standby	Stand by value
+fieldname	Field name
+pleasechoosedb	Please choose DB type
+dbtypedescription	How to choose?
+support	Support
+nosupport	Not support
+dbtype	Db type
+version	Version
+sqliteunsupport	SQLite db can't support this function.
+uselastcategory	Use last category
+pagesource	Page's Source
+addsubcategory	Add sub category
+managemodules	Modules
+addmodules	Add Module
+modulename	Module Name
+fieldsetting	Fields Setting
+code	Code
+module	Module
+bindmodule	Bind Module
+nobind	No Bind
+listorder	List Order
+add	Add
+nocategorybinded	There's no category bound to this module.
+extfunctions	Ext Functions
+space	 
+page	Page
+item	Item
+fieldsize	Field Size
+modulenameempty	Module name must be offered.
+ispage	Is page?
+pageview	PV
+extfields	Ext Fields
+letterornum	Letter or Num
+email	Email
+mantou	mantou
+supportinfo	Support Info
+akauthor	AKCMS Author
+realurl	Real URL
+searchengine	Search Engine
+indexfield	Indexed Field
+indexwhere	Indexed Condition
+dic	Dic
+updateindex	Update Index
+rebuildindex	Rebuild Index
+finished	Finish 
+index	Index
+createindex	Create Index
+refresh	Refresh
+num	Num
+unindexednum	Unindexed Num
+count	Count
+indexpath	Index Path
+senamemustoffer	Search Engine's Name must be offered
+seorderbymastoffer	Search Engine's Order Type can't be empty
+datapertime	Data per time
+timeout	Time Lag
+inisuccess	Initialization success
+execution	Under Execution
+freeuser	Free User
+authuser	Authed User
+qiucklinks	Quick Links
+manuals	Manuals
+review	Review
+spider	Spider
+spiderexampleurl	Example URL
+spidercontentrule	Content Spider Rule
+spiderlistrule	List Spider Rule
+spiderfield	Spider Data Field
+spiderstartcharacter	Start character
+spiderendcharacter	End character
+spidernow	Spider Now
+spiderpage	Spider Page
+cleartag	Clear Tag
+clearspace	Clear Space
+spiderpic	Spider Picture
+spiderlisturlcharacter	Content URL character
+spiderlisturlskip	Content URL skip
+spiderlisttitlecharacter	Content Title character
+spiderlisttitleskip	Content Title skip
+spiderlistreplace	Spider list replace
+spidererror	Spider error
+modifyfield	Modify Fields
+ifcatched	If catched
+pagebreak	Page Break
+pagebreakcharacter	Page Break URL character
+pagebreakreplace	Page Break URL Replace
+bandcontentid	Band content ID
+backupdb	Backup DB
+restoredb	Restore DB
+volumesize	Volume Size
+tablecharacter	Table character
+tableskip	Table character
+storepath	Store Path
+refreshcategories	Refresh Information of Categories
+picturemaxsize	Picture max size(pixel)
+themeinstallsucess	Theme has beeb installed successfully.
+agree	Agree
+mustagree	You must agree this license first
+next	Next
+logintype	Login type
+s_ifuser	User functionality is enabled?|Close the user function can make the system safer, faster|On,Off
+repeat	Repeat
+findnew	Find new version
+checkauth	Check Auth
+s_ifcomment	Comment functionality is enabled?|Close comments feature is more secure|On,Off
+s_ifguestcomment	If allow visitors to comment?||On,Off
+phpmodule	PHP modules
+user	User
+total	Total
+makesure	You sure you want to do this operation?
+newpassis	New password is
+price	Price
+offlinelicense	If you can not see the above agreement offline installation, please read through this Web site agreement
+
+copypicturetolocal	Copy images from other site.
+howclose	How to close this option?
+howopen	How to open this option?
+iffilename	use filename?
+effect	Effect
+blog	Blog
+weibo	Microblog
+isgoods	Is goods?
+running	Running
+pickpicture	Pick picture
+makefileswritable	Make these files writabled
+sqlitecannotupdate	You can not update AKCMS if you use SQLite

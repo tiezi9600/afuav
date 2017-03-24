@@ -1,0 +1,42 @@
+02:39:46	98.126.19.242	crumb=h5vGy1		/hwadmin/login.php?crumb=h5vGy1
+02:40:01	98.126.19.242			/hwadmin/login.php
+02:40:09	98.126.19.242		admin	/hwadmin/admincp.php
+02:40:10	98.126.19.242	action=menu	admin	/hwadmin/admincp.php?action=menu
+02:40:10	98.126.19.242		admin	/hwadmin/welcome.php
+02:40:10	98.126.19.242	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+02:40:11	98.126.19.242	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+02:40:50	98.126.19.242	action=templates	admin	/hwadmin/admincp.php?action=templates
+02:40:56	98.126.19.242	action=template&template=,message.htm	admin	/hwadmin/admincp.php?action=template&template=,message.htm
+02:41:22	98.126.19.242	action=template&template=sider.htm	admin	/hwadmin/admincp.php?action=template&template=sider.htm
+02:41:30	98.126.19.242	action=variables	admin	/hwadmin/admincp.php?action=variables
+02:41:51	98.126.19.242	action=variables	admin	/hwadmin/admincp.php?action=variables
+02:41:55	98.126.19.242	action=modules	admin	/hwadmin/admincp.php?action=modules
+02:41:59	98.126.19.242	action=templates	admin	/hwadmin/admincp.php?action=templates
+02:42:03	98.126.19.242	action=template&template=,index.htm	admin	/hwadmin/admincp.php?action=template&template=,index.htm
+02:42:26	98.126.19.242	action=template&template=,message.htm	admin	/hwadmin/admincp.php?action=template&template=,message.htm
+02:42:31	98.126.19.242	action=template&template=,message.htm	admin	/hwadmin/admincp.php?action=template&template=,message.htm
+02:42:44	98.126.19.242	action=template&template=,newslist.htm	admin	/hwadmin/admincp.php?action=template&template=,newslist.htm
+02:42:50	98.126.19.242	action=template&template=,newsshow.htm	admin	/hwadmin/admincp.php?action=template&template=,newsshow.htm
+02:42:58	98.126.19.242	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm
+02:43:05	98.126.19.242	action=template&template=,prolist.htm	admin	/hwadmin/admincp.php?action=template&template=,prolist.htm
+02:43:12	98.126.19.242	action=template&template=,proshow.htm	admin	/hwadmin/admincp.php?action=template&template=,proshow.htm
+02:43:50	98.126.19.242	action=template&template=sider.htm	admin	/hwadmin/admincp.php?action=template&template=sider.htm
+02:43:58	98.126.19.242	action=template&template=header.htm	admin	/hwadmin/admincp.php?action=template&template=header.htm
+02:44:30	98.126.19.242	action=template&template=footer.htm	admin	/hwadmin/admincp.php?action=template&template=footer.htm
+02:46:43	98.126.19.242	action=templates	admin	/hwadmin/admincp.php?action=templates
+02:46:58	98.126.19.242	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+02:47:20	98.126.19.242	action=template&template=,index.htm	admin	/hwadmin/admincp.php?action=template&template=,index.htm
+02:48:22	98.126.19.242	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+02:48:29	98.126.19.242	action=templates	admin	/hwadmin/admincp.php?action=templates
+02:49:36	98.126.19.242	action=template&template=,index.htm	admin	/hwadmin/admincp.php?action=template&template=,index.htm
+02:49:41	98.126.19.242	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm
+02:50:26	98.126.19.242	action=templates	admin	/hwadmin/admincp.php?action=templates
+02:50:29	98.126.19.242	action=template&template=,index.htm	admin	/hwadmin/admincp.php?action=template&template=,index.htm
+02:51:12	98.126.19.242	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+02:51:19	98.126.19.242		admin	/hwadmin/admincp.php
+02:51:20	98.126.19.242		admin	/hwadmin/welcome.php
+02:51:20	98.126.19.242	action=menu	admin	/hwadmin/admincp.php?action=menu
+02:51:20	98.126.19.242	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+02:51:22	98.126.19.242	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+02:52:28	98.126.19.242	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+02:52:44	98.126.19.242	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm

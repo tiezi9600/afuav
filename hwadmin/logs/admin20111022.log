@@ -1,0 +1,589 @@
+12:25:39	127.0.0.1			/cctpad/hwadmin/install.php
+12:25:42	127.0.0.1	language=chinese		/cctpad/hwadmin/install.php?language=chinese
+12:25:45	127.0.0.1	language=chinese&agree=1		/cctpad/hwadmin/install.php?language=chinese&agree=1
+12:25:48	127.0.0.1	language=chinese&dbtype=mysql		/cctpad/hwadmin/install.php?language=chinese&dbtype=mysql
+12:26:06	127.0.0.1			/cctpad/hwadmin/install.php
+12:26:09	127.0.0.1	first=1		/cctpad/hwadmin/login.php?first=1
+12:26:09	127.0.0.1			/cctpad/hwadmin/login.php
+12:26:16	127.0.0.1			/cctpad/hwadmin/login.php
+12:26:18	127.0.0.1		admin	/cctpad/hwadmin/admincp.php
+12:26:18	127.0.0.1		admin	/cctpad/hwadmin/welcome.php
+12:26:18	127.0.0.1	action=quicklinks	admin	/cctpad/hwadmin/admincp.php?action=quicklinks
+12:26:18	127.0.0.1	action=menu	admin	/cctpad/hwadmin/admincp.php?action=menu
+12:26:19	127.0.0.1	action=checknew	admin	/cctpad/hwadmin/welcome.php?action=checknew
+12:29:49	127.0.0.1	action=items	admin	/cctpad/hwadmin/admincp.php?action=items
+12:29:52	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+12:29:53	127.0.0.1	action=editcategory&id=1	admin	/cctpad/hwadmin/admincp.php?action=editcategory&id=1
+12:30:18	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:30:24	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:30:24	127.0.0.1	action=templates&crumb=nZrGl6	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=nZrGl6
+12:30:29	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:30:29	127.0.0.1	action=templates&crumb=8YLvjd	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=8YLvjd
+12:30:38	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:30:39	127.0.0.1	action=templates&crumb=bbZRZ6	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=bbZRZ6
+12:30:53	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:30:53	127.0.0.1	action=templates&crumb=F3HngB	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=F3HngB
+12:31:16	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:31:16	127.0.0.1	action=templates&crumb=gcOS9c	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=gcOS9c
+12:31:23	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:31:23	127.0.0.1	action=templates&crumb=vGBuFp	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=vGBuFp
+12:31:29	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:31:29	127.0.0.1	action=templates&crumb=8bLr8s	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=8bLr8s
+12:31:43	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:31:43	127.0.0.1	action=templates&crumb=PXHr20	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=PXHr20
+12:33:05	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:33:05	127.0.0.1	action=templates&crumb=qMEDLk	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=qMEDLk
+12:34:05	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:34:09	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:34:10	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:34:30	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:34:33	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:34:35	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:35:36	127.0.0.1	action=template&template=,prolist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,prolist.htm
+12:35:40	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:35:42	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:36:02	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:36:04	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+12:36:08	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:36:09	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:36:11	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:36:15	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:36:16	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:36:19	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:36:27	127.0.0.1	action=template&template=,center.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,center.htm
+12:36:45	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:36:47	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:39:33	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:40:40	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:40:41	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:40:51	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:40:55	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:42:04	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:42:07	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:42:50	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:42:51	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:42:53	127.0.0.1	action=template&template=,center.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,center.htm
+12:43:00	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:43:01	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:43:03	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:43:08	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:43:09	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:43:13	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:43:18	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+12:43:26	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:43:27	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:43:30	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+12:43:34	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:43:39	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:43:41	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:43:43	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+12:43:47	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:43:53	127.0.0.1	action=template&template=,prolist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,prolist.htm
+12:44:02	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:44:03	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:44:07	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:44:11	127.0.0.1	action=template&template=,prolist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,prolist.htm
+12:44:15	127.0.0.1	action=template&template=,proshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,proshow.htm
+12:44:29	127.0.0.1	action=template&template=,center.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,center.htm
+12:44:35	127.0.0.1	action=template&template=,proshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,proshow.htm
+12:44:39	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:44:40	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:44:52	127.0.0.1	action=specialpages	admin	/cctpad/hwadmin/admincp.php?action=specialpages
+12:45:17	127.0.0.1	action=specialpages&job=newpage	admin	/cctpad/hwadmin/admincp.php?action=specialpages&job=newpage
+12:45:18	127.0.0.1	action=specialpages	admin	/cctpad/hwadmin/admincp.php?action=specialpages
+12:45:28	127.0.0.1	action=generally	admin	/cctpad/hwadmin/setting.php?action=generally
+12:45:49	127.0.0.1		admin	/cctpad/hwadmin/setting.php
+12:45:50	127.0.0.1	action=generally	admin	/cctpad/hwadmin/setting.php?action=generally
+12:45:53	127.0.0.1	action=updatecache	admin	/cctpad/hwadmin/welcome.php?action=updatecache
+12:45:54	127.0.0.1		admin	/cctpad/hwadmin/welcome.php
+12:45:55	127.0.0.1	action=checknew	admin	/cctpad/hwadmin/welcome.php?action=checknew
+12:45:55	127.0.0.1	action=specialpages	admin	/cctpad/hwadmin/admincp.php?action=specialpages
+12:46:00	127.0.0.1	action=createhtml&id=1&category=0	admin	/cctpad/hwadmin/admincp.php?action=createhtml&id=1&category=0
+12:46:16	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:46:17	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:46:31	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:46:32	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:46:41	127.0.0.1	action=specialpages	admin	/cctpad/hwadmin/admincp.php?action=specialpages
+12:46:42	127.0.0.1	action=createhtml&id=1&category=0	admin	/cctpad/hwadmin/admincp.php?action=createhtml&id=1&category=0
+12:47:46	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:48:37	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:49:07	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:49:08	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:49:10	127.0.0.1	action=template&template=header.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=header.htm
+12:49:14	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:49:16	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:49:31	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:49:43	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:49:44	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:49:46	127.0.0.1	action=template&template=footer.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=footer.htm
+12:49:52	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:49:54	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:50:03	127.0.0.1	action=specialpages	admin	/cctpad/hwadmin/admincp.php?action=specialpages
+12:50:04	127.0.0.1	action=items	admin	/cctpad/hwadmin/admincp.php?action=items
+12:50:06	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:51:22	127.0.0.1	action=template&template=,center.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,center.htm
+12:51:41	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:51:43	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:51:47	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:52:08	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:52:09	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:52:11	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:52:28	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:52:29	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:52:35	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+12:52:52	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:52:53	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:52:56	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:53:06	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:53:07	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:53:09	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+12:53:18	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:53:19	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:53:22	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:53:25	127.0.0.1	action=template&template=,center.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,center.htm
+12:53:46	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:53:47	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:53:53	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+12:53:57	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:54:17	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:54:19	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:54:23	127.0.0.1	action=template&template=,prolist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,prolist.htm
+12:54:43	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:54:44	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:54:47	127.0.0.1	action=template&template=,page.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,page.htm
+12:54:51	127.0.0.1	action=template&template=,prolist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,prolist.htm
+12:54:57	127.0.0.1	action=template&template=,proshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,proshow.htm
+12:55:19	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:55:20	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:55:22	127.0.0.1	action=specialpages	admin	/cctpad/hwadmin/admincp.php?action=specialpages
+12:55:23	127.0.0.1	action=createhtml&id=1&category=0	admin	/cctpad/hwadmin/admincp.php?action=createhtml&id=1&category=0
+12:56:07	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:56:28	127.0.0.1	action=variables	admin	/cctpad/hwadmin/admincp.php?action=variables
+12:56:35	127.0.0.1	action=variables&job=new	admin	/cctpad/hwadmin/admincp.php?action=variables&job=new
+12:56:35	127.0.0.1	action=variables&crumb=M27YIN	admin	/cctpad/hwadmin/admincp.php?action=variables&crumb=M27YIN
+12:56:38	127.0.0.1	action=variables&job=new	admin	/cctpad/hwadmin/admincp.php?action=variables&job=new
+12:56:39	127.0.0.1	action=variables&crumb=RYl7l4	admin	/cctpad/hwadmin/admincp.php?action=variables&crumb=RYl7l4
+12:56:42	127.0.0.1	action=variables&job=new	admin	/cctpad/hwadmin/admincp.php?action=variables&job=new
+12:56:42	127.0.0.1	action=variables&crumb=4PDTEX	admin	/cctpad/hwadmin/admincp.php?action=variables&crumb=4PDTEX
+12:56:59	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:57:00	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:57:40	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:57:41	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:57:47	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:58:30	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:58:31	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+12:58:33	127.0.0.1	action=template&template=,prolist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,prolist.htm
+12:58:38	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+12:58:43	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+12:58:54	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+12:58:56	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:01:15	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+13:02:05	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+13:02:07	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:02:10	127.0.0.1	action=template&template=,index.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,index.htm
+13:02:19	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+13:02:20	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:02:21	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+13:02:23	127.0.0.1	action=editcategory&id=1	admin	/cctpad/hwadmin/admincp.php?action=editcategory&id=1
+13:02:38	127.0.0.1	action=editcategory&id=1	admin	/cctpad/hwadmin/admincp.php?action=editcategory&id=1
+13:02:39	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+13:02:42	127.0.0.1	action=newcategory&parent=0	admin	/cctpad/hwadmin/admincp.php?action=newcategory&parent=0
+13:03:19	127.0.0.1	action=newcategory&id=	admin	/cctpad/hwadmin/admincp.php?action=newcategory&id=
+13:03:20	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+13:03:22	127.0.0.1	action=editcategory&id=1	admin	/cctpad/hwadmin/admincp.php?action=editcategory&id=1
+13:03:29	127.0.0.1	action=editcategory&id=1	admin	/cctpad/hwadmin/admincp.php?action=editcategory&id=1
+13:03:30	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+13:03:55	127.0.0.1	action=newcategory&parent=0	admin	/cctpad/hwadmin/admincp.php?action=newcategory&parent=0
+13:05:13	127.0.0.1	action=newcategory&id=	admin	/cctpad/hwadmin/admincp.php?action=newcategory&id=
+13:05:14	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+13:05:16	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:05:29	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:05:29	127.0.0.1	action=templates&crumb=GusYoK	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=GusYoK
+13:05:36	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:05:36	127.0.0.1	action=templates&crumb=uhibEt	admin	/cctpad/hwadmin/admincp.php?action=templates&crumb=uhibEt
+13:05:39	127.0.0.1	action=template&template=,newslist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newslist.htm
+13:05:45	127.0.0.1	action=template&template=,joblist.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,joblist.htm
+13:05:48	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+13:05:50	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:05:51	127.0.0.1	action=template&template=,jobshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,jobshow.htm
+13:06:00	127.0.0.1	action=template&template=,newsshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,newsshow.htm
+13:06:09	127.0.0.1	action=template&template=,jobshow.htm	admin	/cctpad/hwadmin/admincp.php?action=template&template=,jobshow.htm
+13:06:12	127.0.0.1	action=template&job=save	admin	/cctpad/hwadmin/admincp.php?action=template&job=save
+13:06:13	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:06:17	127.0.0.1	action=templates	admin	/cctpad/hwadmin/admincp.php?action=templates
+13:06:19	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+13:06:22	127.0.0.1	action=editcategory&id=3	admin	/cctpad/hwadmin/admincp.php?action=editcategory&id=3
+13:06:34	127.0.0.1	action=editcategory&id=3	admin	/cctpad/hwadmin/admincp.php?action=editcategory&id=3
+13:06:35	127.0.0.1	action=categories	admin	/cctpad/hwadmin/admincp.php?action=categories
+13:17:00	127.0.0.1		admin	/cctpad/hwadmin/index.php
+13:17:00	127.0.0.1		admin	/cctpad/hwadmin/welcome.php
+13:17:01	127.0.0.1	action=quicklinks	admin	/cctpad/hwadmin/admincp.php?action=quicklinks
+13:17:02	127.0.0.1	action=checknew	admin	/cctpad/hwadmin/welcome.php?action=checknew
+13:17:04	127.0.0.1	action=generally	admin	/cctpad/hwadmin/setting.php?action=generally
+13:17:10	127.0.0.1		admin	/cctpad/hwadmin/setting.php
+13:17:11	127.0.0.1	action=generally	admin	/cctpad/hwadmin/setting.php?action=generally
+13:17:30	127.0.0.1	crumb=344pJX		/hwadmin/login.php?crumb=344pJX
+13:17:36	127.0.0.1			/hwadmin/login.php
+13:17:37	127.0.0.1		admin	/hwadmin/admincp.php
+13:17:38	127.0.0.1		admin	/hwadmin/welcome.php
+13:17:38	127.0.0.1	action=menu	admin	/hwadmin/admincp.php?action=menu
+13:17:38	127.0.0.1	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+13:17:39	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+13:17:49	127.0.0.1		admin	/hwadmin/index.php
+13:17:50	127.0.0.1	action=menu	admin	/hwadmin/admincp.php?action=menu
+13:17:50	127.0.0.1		admin	/hwadmin/welcome.php
+13:17:50	127.0.0.1	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+13:17:50	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+13:18:00	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:18:02	127.0.0.1	action=template&template=,index.htm	admin	/hwadmin/admincp.php?action=template&template=,index.htm
+13:18:11	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+13:18:12	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:18:19	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:18:21	127.0.0.1	action=createhtml&id=1&category=0	admin	/hwadmin/admincp.php?action=createhtml&id=1&category=0
+13:19:19	127.0.0.1	action=specialpages&job=newpage	admin	/hwadmin/admincp.php?action=specialpages&job=newpage
+13:19:20	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:19:59	127.0.0.1	action=specialpages&job=newpage	admin	/hwadmin/admincp.php?action=specialpages&job=newpage
+13:20:01	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:20:42	127.0.0.1	action=specialpages&job=newpage	admin	/hwadmin/admincp.php?action=specialpages&job=newpage
+13:20:44	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:21:23	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:21:28	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:21:30	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:21:31	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+13:21:49	127.0.0.1	action=editcategory&id=1	admin	/hwadmin/admincp.php?action=editcategory&id=1
+13:22:26	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+13:22:48	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:22:49	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+13:22:50	127.0.0.1	action=spiderpage	admin	/hwadmin/spider.php?action=spiderpage
+13:22:51	127.0.0.1	action=users	admin	/hwadmin/admincp.php?action=users
+13:22:51	127.0.0.1	action=allcomments	admin	/hwadmin/admincp.php?action=allcomments
+13:22:52	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:22:59	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:23:18	127.0.0.1	action=template&template=,index.htm	admin	/hwadmin/admincp.php?action=template&template=,index.htm
+13:26:45	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+13:26:46	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:26:48	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:26:49	127.0.0.1	action=createhtml&id=1&category=0	admin	/hwadmin/admincp.php?action=createhtml&id=1&category=0
+13:29:57	127.0.0.1	action=variables	admin	/hwadmin/admincp.php?action=variables
+13:30:15	127.0.0.1	action=variables&job=new	admin	/hwadmin/admincp.php?action=variables&job=new
+13:30:15	127.0.0.1	action=variables&crumb=CnjNYG	admin	/hwadmin/admincp.php?action=variables&crumb=CnjNYG
+13:30:39	127.0.0.1	action=variables&job=edit	admin	/hwadmin/admincp.php?action=variables&job=edit
+13:30:39	127.0.0.1	action=variables&crumb=EnLhPR	admin	/hwadmin/admincp.php?action=variables&crumb=EnLhPR
+13:32:56	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+13:42:03	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:42:04	127.0.0.1	action=template&template=,index.htm	admin	/hwadmin/admincp.php?action=template&template=,index.htm
+13:42:08	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+13:42:10	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:42:14	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:42:15	127.0.0.1	action=createhtml&id=1&category=0	admin	/hwadmin/admincp.php?action=createhtml&id=1&category=0
+13:43:23	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+13:43:27	127.0.0.1	action=template&template=,newslist.htm	admin	/hwadmin/admincp.php?action=template&template=,newslist.htm
+13:46:12	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+13:46:19	127.0.0.1	action=specialpages&id=2	admin	/hwadmin/admincp.php?action=specialpages&id=2
+13:46:24	127.0.0.1	action=specialpages&id=2	admin	/hwadmin/admincp.php?action=specialpages&id=2
+13:46:25	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+14:03:34	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:03:37	127.0.0.1	action=template&template=,newslist.htm	admin	/hwadmin/admincp.php?action=template&template=,newslist.htm
+14:03:45	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:03:47	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:03:49	127.0.0.1	action=template&template=,newsshow.htm	admin	/hwadmin/admincp.php?action=template&template=,newsshow.htm
+14:08:48	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:08:50	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:08:58	127.0.0.1	action=template&template=,prolist.htm	admin	/hwadmin/admincp.php?action=template&template=,prolist.htm
+14:11:14	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+14:11:18	127.0.0.1	action=specialpages&id=2	admin	/hwadmin/admincp.php?action=specialpages&id=2
+14:11:23	127.0.0.1	action=specialpages&id=2	admin	/hwadmin/admincp.php?action=specialpages&id=2
+14:11:25	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+14:17:29	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:17:30	127.0.0.1	action=template&template=,prolist.htm	admin	/hwadmin/admincp.php?action=template&template=,prolist.htm
+14:17:35	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:17:36	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:18:09	127.0.0.1	action=template&template=,page.htm	admin	/hwadmin/admincp.php?action=template&template=,page.htm
+14:20:46	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:20:47	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:20:57	127.0.0.1	action=template&template=,newslist.htm	admin	/hwadmin/admincp.php?action=template&template=,newslist.htm
+14:21:03	127.0.0.1	action=template&template=,joblist.htm	admin	/hwadmin/admincp.php?action=template&template=,joblist.htm
+14:21:07	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:21:08	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:21:10	127.0.0.1	action=template&template=,newsshow.htm	admin	/hwadmin/admincp.php?action=template&template=,newsshow.htm
+14:21:16	127.0.0.1	action=template&template=,jobshow.htm	admin	/hwadmin/admincp.php?action=template&template=,jobshow.htm
+14:21:20	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:21:21	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:21:27	127.0.0.1	action=template&template=,center.htm	admin	/hwadmin/admincp.php?action=template&template=,center.htm
+14:23:05	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:23:07	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:23:14	127.0.0.1	action=template&template=,newsshow.htm	admin	/hwadmin/admincp.php?action=template&template=,newsshow.htm
+14:23:20	127.0.0.1	action=template&template=,proshow.htm	admin	/hwadmin/admincp.php?action=template&template=,proshow.htm
+14:23:23	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:23:25	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:23:28	127.0.0.1	action=template&template=header.htm	admin	/hwadmin/admincp.php?action=template&template=header.htm
+14:30:20	127.0.0.1	action=template&job=save	admin	/hwadmin/admincp.php?action=template&job=save
+14:30:21	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:38:46	127.0.0.1		admin	/hwadmin/welcome.php
+14:38:46	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+14:43:05	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+14:43:10	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+14:43:13	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+15:11:14	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+15:11:18	127.0.0.1	action=template&template=,center.htm	admin	/hwadmin/admincp.php?action=template&template=,center.htm
+15:15:42	127.0.0.1		admin	/hwadmin/welcome.php
+15:15:42	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:20:30	127.0.0.1		admin	/hwadmin/welcome.php
+15:20:30	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:22:31	127.0.0.1		admin	/hwadmin/welcome.php
+15:22:31	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:22:38	127.0.0.1	action=phpinfo	admin	/hwadmin/welcome.php?action=phpinfo
+15:22:42	127.0.0.1	action=phpmodules	admin	/hwadmin/welcome.php?action=phpmodules
+15:22:57	127.0.0.1	action=phpmodules	admin	/hwadmin/welcome.php?action=phpmodules
+15:23:55	127.0.0.1		admin	/hwadmin/welcome.php
+15:23:55	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:24:37	127.0.0.1		admin	/hwadmin/welcome.php
+15:24:37	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:25:31	127.0.0.1	action=phpmodules	admin	/hwadmin/welcome.php?action=phpmodules
+15:26:57	127.0.0.1	action=phpmodules	admin	/hwadmin/welcome.php?action=phpmodules
+15:28:30	127.0.0.1		admin	/hwadmin/welcome.php
+15:28:30	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:28:31	127.0.0.1	action=phpmodules	admin	/hwadmin/welcome.php?action=phpmodules
+15:29:18	127.0.0.1		admin	/hwadmin/welcome.php
+15:29:18	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:29:19	127.0.0.1	action=phpmodules	admin	/hwadmin/welcome.php?action=phpmodules
+15:29:35	127.0.0.1		admin	/hwadmin/welcome.php
+15:29:35	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:29:37	127.0.0.1	action=phpmodules	admin	/hwadmin/welcome.php?action=phpmodules
+15:29:43	127.0.0.1		admin	/hwadmin/welcome.php
+15:29:43	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:29:44	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:29:54	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:30:03	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:30:05	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:30:06	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+15:30:09	127.0.0.1	action=user	admin	/hwadmin/setting.php?action=user
+15:30:10	127.0.0.1	action=attach	admin	/hwadmin/setting.php?action=attach
+15:30:14	127.0.0.1	action=optimize	admin	/hwadmin/welcome.php?action=optimize
+15:30:15	127.0.0.1		admin	/hwadmin/welcome.php
+15:30:16	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:30:16	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+15:30:18	127.0.0.1		admin	/hwadmin/welcome.php
+15:30:18	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:30:19	127.0.0.1	action=checkwritable	admin	/hwadmin/welcome.php?action=checkwritable
+15:30:20	127.0.0.1		admin	/hwadmin/welcome.php
+15:30:21	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:30:22	127.0.0.1	action=export	admin	/hwadmin/db.php?action=export
+15:30:25	127.0.0.1	action=import	admin	/hwadmin/db.php?action=import
+15:30:27	127.0.0.1	action=runsql	admin	/hwadmin/welcome.php?action=runsql
+15:30:37	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+15:30:40	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+15:30:42	127.0.0.1	action=spiderpage	admin	/hwadmin/spider.php?action=spiderpage
+15:30:44	127.0.0.1	action=users	admin	/hwadmin/admincp.php?action=users
+15:30:45	127.0.0.1	action=allcomments	admin	/hwadmin/admincp.php?action=allcomments
+15:30:47	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+15:30:50	127.0.0.1	action=sections	admin	/hwadmin/admincp.php?action=sections
+15:30:52	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+15:30:54	127.0.0.1	action=variables	admin	/hwadmin/admincp.php?action=variables
+15:30:55	127.0.0.1	action=modules	admin	/hwadmin/admincp.php?action=modules
+15:30:57	127.0.0.1		admin	/hwadmin/se.php
+15:30:59	127.0.0.1		admin	/hwadmin/spider.php
+15:31:01	127.0.0.1	action=createcategory	admin	/hwadmin/admincp.php?action=createcategory
+15:31:03	127.0.0.1	action=createitem	admin	/hwadmin/admincp.php?action=createitem
+15:31:05	127.0.0.1	action=manageaccounts	admin	/hwadmin/account.php?action=manageaccounts
+15:31:07	127.0.0.1	action=changepassword	admin	/hwadmin/account.php?action=changepassword
+15:31:10	127.0.0.1		admin	/hwadmin/welcome.php
+15:31:11	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:31:31	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+15:31:34	127.0.0.1	action=template&template=,center.htm	admin	/hwadmin/admincp.php?action=template&template=,center.htm
+15:32:21	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+15:32:22	127.0.0.1	action=newcategory&parent=0	admin	/hwadmin/admincp.php?action=newcategory&parent=0
+15:32:38	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+15:32:40	127.0.0.1	action=template&template=,jobshow.htm	admin	/hwadmin/admincp.php?action=template&template=,jobshow.htm
+15:35:36	127.0.0.1		admin	/hwadmin/welcome.php
+15:35:36	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:35:38	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:35:39	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:36:21	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:36:23	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:36:24	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:36:25	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+15:36:26	127.0.0.1	action=user	admin	/hwadmin/setting.php?action=user
+15:36:27	127.0.0.1	action=attach	admin	/hwadmin/setting.php?action=attach
+15:36:29	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+15:36:31	127.0.0.1		admin	/hwadmin/welcome.php
+15:36:31	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:36:33	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:36:35	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+15:36:36	127.0.0.1	action=template&template=,joblist.htm	admin	/hwadmin/admincp.php?action=template&template=,joblist.htm
+15:36:44	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+15:36:49	127.0.0.1	action=sections	admin	/hwadmin/admincp.php?action=sections
+15:36:52	127.0.0.1	action=variables	admin	/hwadmin/admincp.php?action=variables
+15:49:08	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:49:16	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:49:17	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+15:49:19	127.0.0.1		admin	/hwadmin/welcome.php
+15:49:19	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:49:20	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:49:21	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:49:22	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+15:49:23	127.0.0.1	action=user	admin	/hwadmin/setting.php?action=user
+15:49:23	127.0.0.1	action=attach	admin	/hwadmin/setting.php?action=attach
+15:49:25	127.0.0.1	action=optimize	admin	/hwadmin/welcome.php?action=optimize
+15:49:26	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+15:49:27	127.0.0.1	action=checkwritable	admin	/hwadmin/welcome.php?action=checkwritable
+15:49:28	127.0.0.1	action=export	admin	/hwadmin/db.php?action=export
+15:49:29	127.0.0.1	action=import	admin	/hwadmin/db.php?action=import
+15:49:30	127.0.0.1	action=runsql	admin	/hwadmin/welcome.php?action=runsql
+15:49:37	127.0.0.1		admin	/hwadmin/welcome.php
+15:49:37	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:49:44	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:49:52	127.0.0.1	action=users	admin	/hwadmin/admincp.php?action=users
+15:49:53	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+15:49:56	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+15:49:58	127.0.0.1	action=template&template=,center.htm	admin	/hwadmin/admincp.php?action=template&template=,center.htm
+15:50:08	127.0.0.1	action=manageaccounts	admin	/hwadmin/account.php?action=manageaccounts
+15:50:10	127.0.0.1	action=changepassword	admin	/hwadmin/account.php?action=changepassword
+15:50:12	127.0.0.1	action=logout	admin	/hwadmin/account.php?action=logout
+15:50:13	127.0.0.1		admin	/hwadmin/login.php
+15:50:17	127.0.0.1		admin	/hwadmin/login.php
+15:50:18	127.0.0.1		admin	/hwadmin/admincp.php
+15:50:19	127.0.0.1	action=menu	admin	/hwadmin/admincp.php?action=menu
+15:50:19	127.0.0.1	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+15:50:19	127.0.0.1		admin	/hwadmin/welcome.php
+15:50:19	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+15:50:21	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+15:50:23	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:50:25	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:52:58	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+15:55:48	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:57:17	127.0.0.1	action=user	admin	/hwadmin/setting.php?action=user
+15:57:27	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+15:57:36	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+15:57:45	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+16:01:08	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:01:09	127.0.0.1		admin	/hwadmin/welcome.php
+16:01:10	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:01:11	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+16:01:14	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+16:01:20	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+16:05:36	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:05:38	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+16:05:40	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+16:05:41	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:05:52	127.0.0.1		admin	/hwadmin/setting.php
+16:05:53	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:05:56	127.0.0.1		admin	/hwadmin/admincp.php
+16:05:56	127.0.0.1	action=menu	admin	/hwadmin/admincp.php?action=menu
+16:05:56	127.0.0.1		admin	/hwadmin/welcome.php
+16:05:57	127.0.0.1	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+16:05:57	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:06:01	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+16:06:08	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:06:13	127.0.0.1	action=logout	admin	/hwadmin/account.php?action=logout
+16:06:14	127.0.0.1		admin	/hwadmin/login.php
+16:06:19	127.0.0.1		admin	/hwadmin/login.php
+16:06:20	127.0.0.1		admin	/hwadmin/admincp.php
+16:06:20	127.0.0.1	action=menu	admin	/hwadmin/admincp.php?action=menu
+16:06:20	127.0.0.1		admin	/hwadmin/welcome.php
+16:06:20	127.0.0.1	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+16:06:21	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:06:35	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:06:37	127.0.0.1		admin	/hwadmin/welcome.php
+16:06:37	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:11:28	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+16:11:31	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+16:11:33	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:20:44	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:20:54	127.0.0.1		admin	/hwadmin/setting.php
+16:20:56	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:20:59	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:21:03	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:21:04	127.0.0.1		admin	/hwadmin/welcome.php
+16:21:04	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:21:06	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:21:17	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:21:24	127.0.0.1		admin	/hwadmin/setting.php
+16:21:25	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:21:28	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:21:36	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+16:21:46	127.0.0.1	action=newitem&category=1	admin	/hwadmin/admincp.php?action=newitem&category=1
+16:21:46	127.0.0.1	action=selectcategories&up=0&level=0&module=1&defaultlist=1	admin	/hwadmin/admincp.php?action=selectcategories&up=0&level=0&module=1&defaultlist=1
+16:21:46	127.0.0.1	action=selectcategories&up=1&level=1&module=1&defaultlist=1	admin	/hwadmin/admincp.php?action=selectcategories&up=1&level=1&module=1&defaultlist=1
+16:21:51	127.0.0.1	action=items&category=3	admin	/hwadmin/admincp.php?action=items&category=3
+16:21:54	127.0.0.1	action=modules&job=editmodule&id=1	admin	/hwadmin/admincp.php?action=modules&job=editmodule&id=1
+16:22:02	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:36:48	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:36:50	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+16:36:52	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:37:03	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+16:37:05	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+16:37:07	127.0.0.1	action=logout	admin	/hwadmin/account.php?action=logout
+16:37:08	127.0.0.1		admin	/hwadmin/login.php
+16:37:11	127.0.0.1		admin	/hwadmin/login.php
+16:37:13	127.0.0.1		admin	/hwadmin/admincp.php
+16:37:13	127.0.0.1		admin	/hwadmin/welcome.php
+16:37:13	127.0.0.1	action=menu	admin	/hwadmin/admincp.php?action=menu
+16:37:13	127.0.0.1	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+16:37:13	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:37:27	127.0.0.1		admin	/hwadmin/welcome.php
+16:37:27	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:37:28	127.0.0.1	action=generally	admin	/hwadmin/setting.php?action=generally
+16:37:36	127.0.0.1	action=functions	admin	/hwadmin/setting.php?action=functions
+16:37:40	127.0.0.1	action=front	admin	/hwadmin/setting.php?action=front
+16:37:43	127.0.0.1	action=user	admin	/hwadmin/setting.php?action=user
+16:37:46	127.0.0.1	action=attach	admin	/hwadmin/setting.php?action=attach
+16:37:49	127.0.0.1	action=optimize	admin	/hwadmin/welcome.php?action=optimize
+16:37:51	127.0.0.1		admin	/hwadmin/welcome.php
+16:37:51	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:37:51	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:37:52	127.0.0.1		admin	/hwadmin/welcome.php
+16:37:53	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:37:53	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:43:15	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+16:43:26	127.0.0.1	action=newcategory&parent=2	admin	/hwadmin/admincp.php?action=newcategory&parent=2
+16:43:28	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:44:10	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:44:11	127.0.0.1		admin	/hwadmin/welcome.php
+16:44:12	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:44:36	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:44:37	127.0.0.1		admin	/hwadmin/welcome.php
+16:44:38	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:44:39	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:45:25	127.0.0.1	action=categories	admin	/hwadmin/admincp.php?action=categories
+16:45:28	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:45:59	127.0.0.1	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+16:45:59	127.0.0.1	action=menu	admin	/hwadmin/admincp.php?action=menu
+16:46:00	127.0.0.1		admin	/hwadmin/welcome.php
+16:46:00	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:49:11	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+16:49:12	127.0.0.1	action=newitem	admin	/hwadmin/admincp.php?action=newitem
+16:49:12	127.0.0.1	action=selectcategories&up=0&level=0&module=1&defaultlist=	admin	/hwadmin/admincp.php?action=selectcategories&up=0&level=0&module=1&defaultlist=
+16:49:15	127.0.0.1	action=selectcategories&up=1&level=1&module=1&defaultlist=	admin	/hwadmin/admincp.php?action=selectcategories&up=1&level=1&module=1&defaultlist=
+16:49:28	127.0.0.1	action=saveitem	admin	/hwadmin/admincp.php?action=saveitem
+16:49:30	127.0.0.1	action=items&module=1	admin	/hwadmin/admincp.php?action=items&module=1
+16:55:35	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:55:36	127.0.0.1		admin	/hwadmin/welcome.php
+16:55:37	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:55:37	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:55:42	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:55:44	127.0.0.1		admin	/hwadmin/welcome.php
+16:55:44	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:55:46	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:55:49	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+16:58:18	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+16:58:19	127.0.0.1		admin	/hwadmin/welcome.php
+16:58:20	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+16:58:20	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+16:58:31	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+16:59:10	127.0.0.1	action=items	admin	/hwadmin/admincp.php?action=items
+16:59:11	127.0.0.1	action=spiderpage	admin	/hwadmin/spider.php?action=spiderpage
+16:59:13	127.0.0.1	action=users	admin	/hwadmin/admincp.php?action=users
+16:59:24	127.0.0.1	action=manageaccounts	admin	/hwadmin/account.php?action=manageaccounts
+16:59:33	127.0.0.1	action=users	admin	/hwadmin/admincp.php?action=users
+17:00:31	127.0.0.1	action=user	admin	/hwadmin/setting.php?action=user
+17:00:35	127.0.0.1		admin	/hwadmin/setting.php
+17:00:37	127.0.0.1	action=user	admin	/hwadmin/setting.php?action=user
+17:02:14	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+17:02:21	127.0.0.1	action=templates	admin	/hwadmin/admincp.php?action=templates
+17:02:21	127.0.0.1	action=templates&crumb=xwL2Eo	admin	/hwadmin/admincp.php?action=templates&crumb=xwL2Eo
+17:02:59	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+17:06:43	127.0.0.1	action=updatecache	admin	/hwadmin/welcome.php?action=updatecache
+17:06:44	127.0.0.1		admin	/hwadmin/welcome.php
+17:06:45	127.0.0.1	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+17:06:46	127.0.0.1	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages

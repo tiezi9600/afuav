@@ -1,0 +1,16 @@
+11:29:41	124.207.120.4	crumb=rtU82B		/hwadmin/login.php?crumb=rtU82B
+11:29:47	124.207.120.4			/hwadmin/login.php
+11:29:48	124.207.120.4		admin	/hwadmin/admincp.php
+11:29:49	124.207.120.4	action=menu	admin	/hwadmin/admincp.php?action=menu
+11:29:49	124.207.120.4		admin	/hwadmin/welcome.php
+11:29:49	124.207.120.4	action=quicklinks	admin	/hwadmin/admincp.php?action=quicklinks
+11:29:49	124.207.120.4	action=checknew	admin	/hwadmin/welcome.php?action=checknew
+11:29:50	124.207.120.4	action=specialpages	admin	/hwadmin/admincp.php?action=specialpages
+11:29:52	124.207.120.4	action=items	admin	/hwadmin/admincp.php?action=items
+11:29:54	124.207.120.4	action=items&module=2	admin	/hwadmin/admincp.php?action=items&module=2
+11:29:55	124.207.120.4	action=edititem&id=31	admin	/hwadmin/admincp.php?action=edititem&id=31
+11:29:56	124.207.120.4	action=selectcategories&up=0&level=0&module=2&defaultlist=2,7	admin	/hwadmin/admincp.php?action=selectcategories&up=0&level=0&module=2&defaultlist=2,7
+11:29:56	124.207.120.4	action=selectcategories&up=2&level=1&module=2&defaultlist=2,7	admin	/hwadmin/admincp.php?action=selectcategories&up=2&level=1&module=2&defaultlist=2,7
+11:29:56	124.207.120.4	action=selectcategories&up=7&level=2&module=2&defaultlist=2,7	admin	/hwadmin/admincp.php?action=selectcategories&up=7&level=2&module=2&defaultlist=2,7
+11:30:10	124.207.120.4	action=saveitem	admin	/hwadmin/admincp.php?action=saveitem
+11:30:11	124.207.120.4	action=items&module=2	admin	/hwadmin/admincp.php?action=items&module=2

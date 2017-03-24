@@ -1,0 +1,150 @@
+<?php
+
+$sysname = 'Huiland';
+$sysedition = 'CMS';
+$authkey = 'xheditor';
+$safecode = base64_decode('Wypha2Ntcypd');
+$itemfields = array('title','shorttitle','aimurl','filename','category','section','template','price','author','source','dateline','pageview','picture','attach','comment','keywords','digest','data','orderby','orderby2','orderby3','orderby4');
+$IIIIIIIIIIIl = AK_ROOT.'configs/auth.php';
+$IIIIIIIIIII1 = AK_ROOT.'configs/auth.lst';
+$authsuccess = 0;
+if($__callmode == 'web') $_vc = ak_md5($_SERVER['HTTP_USER_AGENT']."\t".$_SERVER['REMOTE_ADDR'],1);
+if(file_exists($IIIIIIIIIIIl)) {
+$IIIIIIIIIIlI = readfromfile($IIIIIIIIIIIl);
+$IIIIIIIIIIlI = decodeauth($IIIIIIIIIIlI);
+if($IIIIIIIIIIlI != '') {
+if(strpos($IIIIIIIIIIlI,'#') !== false) {
+$IIIIIIIIIIl1 = substr($IIIIIIIIIIlI,0,-11);
+$IIIIIIIIII1l = substr($IIIIIIIIIIlI,-10);
+if($IIIIIIIIII1l <$IIIIIIIIII11) {
+unlink($IIIIIIIIIIIl);
+}else {
+if($__callmode != 'web') {
+$authsuccess = 1;
+}else {
+if($IIIIIIIIIIl1 == $_SERVER['SERVER_ADDR']) $authsuccess = 1;
+if($IIIIIIIIIIl1 == $_SERVER['HTTP_HOST']) $authsuccess = 1;
+if(strlen($_SERVER['HTTP_HOST']) >strlen($IIIIIIIIIIl1) &&substr($_SERVER['HTTP_HOST'],strlen($IIIIIIIIIIl1) * -1) == $IIIIIIIIIIl1) $authsuccess = 1;
+}
+}
+}else {
+$IIIIIIIIIlIl = explode("\t",$IIIIIIIIIIlI);
+foreach($IIIIIIIIIlIl as $IIIIIIIIIIlI) {
+if($__callmode != 'web') {
+$authsuccess = 1;
+break;
+}
+if($IIIIIIIIIIlI == $_SERVER['SERVER_ADDR']) $authsuccess = 1;
+if($IIIIIIIIIIlI == $_SERVER['HTTP_HOST']) $authsuccess = 1;
+if(strlen($_SERVER['HTTP_HOST']) >strlen($IIIIIIIIIIlI) &&substr($_SERVER['HTTP_HOST'],strlen($IIIIIIIIIIlI) * -1) == $IIIIIIIIIIlI) $authsuccess = 1;
+if($authsuccess == 1) break;
+}
+}
+}
+if($IIIIIIIIIIlI == ''&&empty($IIIIIIIIIllI)) {
+if(file_exists($IIIIIIIIIII1)) {
+$IIIIIIIIIlll = readfromfile($IIIIIIIIIII1);
+$IIIIIIIIIlll = str_replace("\r\n","\n",$IIIIIIIIIlll);
+$IIIIIIIIIll1 = explode("\n",$IIIIIIIIIlll);
+}else {
+$IIIIIIIIIll1 = array($_SERVER['SERVER_ADDR'],$_SERVER['HTTP_HOST']);
+}
+$IIIIIIIIIll1 = implode(',',$IIIIIIIIIll1);
+$IIIIIIIIIl1l = 'http://auth.akcms.com/getauth.php?version='.$sysedition.'&key='.$IIIIIIIIIll1;
+$IIIIIIIIIl11 = readfromurl($IIIIIIIIIl1l);
+if(substr($IIIIIIIIIl11,0,5) == '<?php'&&strlen($IIIIIIIIIl11) >52) {
+writetofile($IIIIIIIIIl11,$IIIIIIIIIIIl);
+exit("<script language='javascript'>document.location.reload();</script>");
+}else {
+@unlink($IIIIIIIIIIIl);
+exit('auth file update error,please download auth file from <a href="http://auth.akcms.com/" target="_blank">http://auth.akcms.com/</a>');
+}
+}
+}
+unset($authkey,$IIIIIIIIIIlI,$IIIIIIIIIlIl,$IIIIIIIIIIIl,$IIIIIIIIIII1,$IIIIIIIIII1l);
+function decodeauth($IIIIIIIII1Il) {
+$IIIIIIIII1I1 = substr($IIIIIIIII1Il,39,-2);
+$IIIIIIIII1lI = substr($IIIIIIIII1Il,7,32);
+$IIIIIIIII1Il = base64_decode($IIIIIIIII1I1);
+$IIIIIIIII1Il = ak_xor($IIIIIIIII1Il,$GLOBALS['authkey']);
+if(md5($IIIIIIIII1Il) != $IIIIIIIII1lI) $IIIIIIIII1Il = '';
+return $IIIIIIIII1Il;
+}
+function renderdata($IIIIIIIII1l1,$IIIIIIIII11I) {
+global $safecode;
+$IIIIIIIII11l = '';
+$IIIIIIIII111 = array();
+$IIIIIIIIlIII = array();
+foreach($IIIIIIIII1l1 as $IIIIIIIIlIIl) {
+$IIIIIIIIlIII = array_merge($IIIIIIIIlIII,$IIIIIIIIlIIl);
+}
+if(count($IIIIIIIII1l1) >0) $IIIIIIIIlIll = array_keys($IIIIIIIIlIII);
+if(count($IIIIIIIIlIll) == 0) return $IIIIIIIII11I['emptymessage'];
+foreach($IIIIIIIIlIll as $IIIIIIIIlI1I) {
+$IIIIIIIII111[$IIIIIIIIlI1I] = "[$IIIIIIIIlI1I]";
+}
+$IIIIIIIIlI1l = 0;
+foreach($IIIIIIIII1l1 as $IIIIIIIIlI11 =>$IIIIIIIIllII) {
+$IIIIIIIIllIl = recursiontemplate($IIIIIIIII11I,$IIIIIIIIllII);
+foreach($IIIIIIIIlIll as $IIIIIIIIlI1I) {
+$IIIIIIIIllI1 = getfield("[$IIIIIIIIlI1I:",']',$IIIIIIIIllIl);
+if(!empty($IIIIIIIIllI1)) {
+$IIIIIIIII111["$IIIIIIIIlI1I:$IIIIIIIIllI1"] = "[$IIIIIIIIlI1I:$IIIIIIIIllI1]";
+if(a_is_int($IIIIIIIIllI1)) {
+$IIIIIIIIlllI = htmltotext($IIIIIIIIllII[$IIIIIIIIlI1I]);
+$IIIIIIIIllII["$IIIIIIIIlI1I:$IIIIIIIIllI1"] = ak_substr($IIIIIIIIlllI,0,$IIIIIIIIllI1);
+}
+if($IIIIIIIIllI1 == 'text') {
+$IIIIIIIIllII["$IIIIIIIIlI1I:$IIIIIIIIllI1"] = htmltotext($IIIIIIIIllII[$IIIIIIIIlI1I]);
+}
+if(!isset($IIIIIIIIllII["$IIIIIIIIlI1I:$IIIIIIIIllI1"])) $IIIIIIIIllII["$IIIIIIIIlI1I:$IIIIIIIIllI1"] = '';
+}
+}
+$IIIIIIIII11l .= ak_array_replace($IIIIIIIII111,$IIIIIIIIllII,$IIIIIIIIllIl);
+$IIIIIIIIlI1l ++;
+if(isset($IIIIIIIII11I['colspan']) &&$IIIIIIIII11I['colspan'] >0) {
+if($IIIIIIIIlI1l %$IIIIIIIII11I['colspan'] == 0 &&isset($IIIIIIIII1l1[$IIIIIIIIlI11 +1])) $IIIIIIIII11l .= $IIIIIIIII11I['overflow'];
+}
+}
+return $IIIIIIIII11l.$safecode;
+}
+function renderhtml($IIIIIIIIlll1,$IIIIIIIIll1I) {
+global $lr,$homepage,$safecode,$setting_forbidstat,$authsuccess,$currenturl;
+if(empty($authsuccess) &&substr($currenturl,-4) != '.xml'&&(empty($IIIIIIIIll1I['htmlfilename']) ||substr($IIIIIIIIll1I['htmlfilename'],-4) != '.xml')) {
+if(strpos($IIIIIIIIlll1,'[powered]') === false) {
+$IIIIIIIIlll1 = preg_replace('/<\/body>/i',"[powered]{$lr}</body>",$IIIIIIIIlll1);
+}
+if(strpos($IIIIIIIIlll1,'[powered]') === false &&strpos($IIIIIIIIlll1,'<') !== false) $IIIIIIIIlll1 .= "[powered]";
+}
+if(empty($setting_forbidstat)) {
+if(strpos($IIIIIIIIlll1,'[inc]') === false) {
+$IIIIIIIIlll1 = preg_replace('/<\/body>/i',"[inc]{$lr}</body>",$IIIIIIIIlll1);
+}
+}
+if(!empty($IIIIIIIIll1I['_pageid'])) {
+$IIIIIIIIlI11 = $IIIIIIIIll1I['_pageid'];
+$IIIIIIIIll11 = $IIIIIIIIll1I['_pagetype'];
+$IIIIIIIIl1II = getinc($IIIIIIIIlI11,$IIIIIIIIll11);
+}else {
+$IIIIIIIIl1II = '';
+}
+$IIIIIIIIlll1 = ak_replace('[inc]',$IIIIIIIIl1II,$IIIIIIIIlll1);
+$IIIIIIIIl1Il = '';
+if(empty($authsuccess)) $IIIIIIIIl1Il = "<a href='http://www.huiland.net'>新徽网络</a>";
+$IIIIIIIIlll1 = ak_replace('[powered]',$IIIIIIIIl1Il,$IIIIIIIIlll1);
+$IIIIIIIIlll1 = ak_replace('[*home*]',$homepage,$IIIIIIIIlll1);
+$IIIIIIIIlll1 = ak_replace('[n]',"\n",$IIIIIIIIlll1);
+$IIIIIIIIlll1 = str_replace($safecode,'',$IIIIIIIIlll1);
+if(substr($IIIIIIIIlll1,0,17) == '<!--clearspace-->') $IIIIIIIIlll1 = clearhtml(substr($IIIIIIIIlll1,17));
+return $IIIIIIIIlll1;
+}
+function getinc($IIIIIIIIlI11 = 0,$IIIIIIIIll11 = 'item') {
+if($IIIIIIIIlI11 == 0) return '';
+if($IIIIIIIIll11 == 'category') $IIIIIIIIlI11 = 'c'.$IIIIIIIIlI11;
+$IIIIIIIIl1lI = "<img style='display:none;' src='[*home*]akcms_inc.php?i={$IIIIIIIIlI11}' />";
+return $IIIIIIIIl1lI;
+}
+function getcopyrightinfo() {
+return "<center class='mininum' style='margin-top:5px;'><a href='http://www.huiland.net/' target='_blank'>Copyright © 2007-2012 {$GLOBALS['sysname']} {$GLOBALS['sysedition']}</a></center>";
+}
+?>

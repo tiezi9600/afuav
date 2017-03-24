@@ -1,0 +1,69 @@
+<{include file="admincp_xheader.htm"}>
+<base target="mainFrame">
+<body>
+<div class="block"></div>
+<table cellspacing="1" cellpadding="4" class="commontable width100">
+	<tr class="header">
+		<td align="center"><{$lan.content}></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="admincp.php?action=specialpages"><{$lan.page}></a><br />
+			<div class="r"><a href="admincp.php?action=newitem">+</a></div><a href="admincp.php?action=items"><{$defaultmodule.modulename}></a><br />
+<{foreach from=$modules item=module}>
+<{if $module.id ne 1}>
+<div class="r"><a href="admincp.php?action=newitem&module=<{$module.id}>">+</a></div><a href="admincp.php?action=items&module=<{$module.id}>"><{$module.modulename}></a><br />
+<{/if}>
+<{/foreach}>
+			<a href="spider.php?action=spiderpage"><{$lan.spiderpage}></a><br />
+			<a href="admincp.php?action=users"><{$lan.user}></a><br />
+			<a href="admincp.php?action=allcomments"><{$lan.comment}></a>
+		</td>
+	</tr>
+</table>
+<{if $iscreator == 1}>
+<div class="block"></div>
+<table cellspacing="1" cellpadding="4" class="commontable width100">
+	<tr class="header">
+		<td align="center"><{$lan.system}></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="admincp.php?action=categories"><{$lan.category}></a><br />
+			<a href="admincp.php?action=sections"><{$lan.section}></a><br />
+			<a href="admincp.php?action=templates"><{$lan.template}></a><br />
+			<a href="admincp.php?action=variables"><{$lan.variable}></a><br />
+			<a href="admincp.php?action=modules"><{$lan.module}></a><br />
+			<a href="se.php"><{$lan.searchengine}></a><br />
+			<a href="spider.php"><{$lan.spider}></a><br />
+		</td>
+	</tr>
+</table>
+<{/if}>
+<div class="block"></div>
+<table cellspacing="1" cellpadding="4" class="commontable width100">
+	<tr class="header">
+		<td align="center"><{$lan.batchcreatehtml}></td>
+	</tr>
+	<tr>
+		<td>
+			<a href="admincp.php?action=createcategory"><{$lan.createcategory}></a><br />
+			<a href="admincp.php?action=createitem"><{$lan.createitem}></a>
+		</td>
+	</tr>
+</table>
+<div class="block"></div>
+<table cellspacing="1" cellpadding="4" class="commontable width100">
+	<tr class="header">
+		<td align="center"><{$lan.account}></td>
+	</tr>
+	<tr>
+		<td>
+			<{if $iscreator == 1}><a href="account.php?action=manageaccounts"><{$lan.accountmanage}></a><br /><{/if}>
+			<a href="account.php?action=changepassword"><{$lan.changepassword}></a><br />
+			<a href="account.php?action=logout" target="_parent"><{$lan.logout}></a>
+		</td>
+	</tr>
+</table>
+</body>
+</html>
